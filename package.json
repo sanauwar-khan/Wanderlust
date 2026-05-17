@@ -1,8 +1,5 @@
 {
-"engines": {
-   "node": "18.x"
-},
-  "name": "majorproject",
+  "name": "wanderlust",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
